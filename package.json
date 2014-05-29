@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/filiphaftek/NodeJsAppConfigurer.git"
+    "url": "https://github.com/filiphaftek/app_configurer.git"
   },
   "keywords": [
     "Nodejs",
@@ -20,9 +20,9 @@
   "author": "FH & AG",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/filiphaftek/NodeJsAppConfigurer/issues"
+    "url": "https://github.com/filiphaftek/app_configurer/issues"
   },
-  "homepage": "https://github.com/filiphaftek/NodeJsAppConfigurer",
+  "homepage": "https://github.com/filiphaftek/app_configurer",
   "dependencies": {
     "JSONPath": "^0.10.0",
     "flat": "^1.2.1"
