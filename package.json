@@ -4,7 +4,7 @@
   "description": "Nodejs applications template and environment variables merge tool",
   "main": "app/configurer.js",
   "scripts": {
-    "test": "echo 'Should see hostName'; node test/appTest.js; echo 'passed!'; exit 0"
+    "test": "echo 'Should see hostName:1111'; node test/appTest.js; echo 'passed!'; exit 0"
   },
   "repository": {
     "type": "git",

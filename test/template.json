@@ -1,5 +1,5 @@
 {
 	"url" : {
-		"testHost" : "{test.host}"
+		"testHost" : "{test.host}:{test.port}"
 	}
 }
