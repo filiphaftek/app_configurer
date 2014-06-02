@@ -16,6 +16,5 @@ fs.readFile(process.argv[2], 'utf8', function (err,data) {
         return console.log(err);
     }
     var result = configurer.configure(JSON.parse(data));
-    console.log(result)
-    fs.writeFile(process.argv[3], JSON.stringify(result));
+    fs.writeFile(process.argv[3], "[" + JSON.stringify(result[0], null, '\t') + "]");
 });
